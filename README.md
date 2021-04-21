@@ -1,3 +1,5 @@
+**NOTE:**
+This can NOT calculate floats (0.5, 231.2, etc).
 # PythonCalculator v1.0
 ###### PythonCalculator is a app that is built with Python 3.9.4.
 To use **PythonCalculator**, open the terminal / command line.
