@@ -7,5 +7,9 @@ If you are on a **CLI / Command Line (Windows cmd.exe)**, then download Git [her
 To use this calculator, it will ask you for a, s, m, d, and fd.
 **HOW TO USE:**
 It asks for a, s, m, d, and fd. a means Addition, s means Subtraction, m means Multiply, d means Divide, and fd means Floor Divide.
+You can type `a`, or `s`, or `m`, or `d`, or `fd` to do the operations.
+Next, put the 1st number, then the 2nd number, and it will give the answer!
+Wait 5 seconds to restart the app. It will automatically restart.
+To close the app, close the **Terminal / Command Line**.
 **What is floor divide?**
 Floor Divide does division but without the remainder.
