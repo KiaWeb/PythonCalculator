@@ -1,5 +1,5 @@
 **NOTE:**
-v1.0 can **NOT** calculate floats (0.5, 231.2, etc). It can if you are using v2.0. You just add f in the front of each function. (eg. ffd (float floor divide), fa (float addition), etc.
+v1.0 can **NOT** calculate floats (0.5, 231.2, etc). It can if you are using v2.0. You just add f in the front of each function. (eg. ffd (float divide because you can not write f in front of d (fd) cause that is already taken. fffd = float floor divide), fa (float addition), etc.
 # PythonCalculator v1.0 & 2.0 (2.0 is the same as 1.0 but with floats added)
 ###### PythonCalculator is a app that is built with Python 3.9.4. We added version 2.0!
 To use **PythonCalculator**, open the terminal / command line.
